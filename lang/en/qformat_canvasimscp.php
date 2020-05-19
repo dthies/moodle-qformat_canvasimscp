@@ -26,4 +26,5 @@
 defined('MOODLE_INTERNAL') || die();
 
 $string['pluginname'] = 'Canvas IMS Content Package';
+$string['pluginname_help'] = 'This is a format allows uploading the Canvans QTI zip archive to be directly uploaded and imported rather than unpacking xml files manually';
 $string['privacy:metadata'] = 'The Canvas IMS Content Package question import format plugin does not store any personal data.';
